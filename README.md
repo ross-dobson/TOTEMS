@@ -14,6 +14,6 @@ In this notebook, I provide an example of doing this with WASP-12b. The ability 
 
 ---
 
-Example plot generated with the notebook, showing extrapolation of fitted models from past literature data, plus the addition of a later transit (taken by the author's group as part of the university project this code was written for):
+Example plot generated with the notebook, showing extrapolation of fitted models from past literature data, plus the addition of a later transit (taken by the author's group as part of the university project this code was originally written for):
 
 ![alt text](https://ross-dobson.github.io/images/TOTEMS_wasp12_example_plot.png)
